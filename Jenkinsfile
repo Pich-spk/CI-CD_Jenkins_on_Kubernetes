@@ -11,7 +11,7 @@ pipeline {
 
     stage('Checkout Source') {
       steps {
-        git 'https://github.com/Pich-spk/Application_JS_Test.git'
+        git 'https://github.com/Pich-spk/application_js_test.git'
       }
     }
 
