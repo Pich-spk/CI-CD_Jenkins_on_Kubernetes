@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "pichkul/pj-nodeapp:latest"
+    dockerimagename = "pichkul/pj-nodeapp"
     dockerImage = ""
   }
 
